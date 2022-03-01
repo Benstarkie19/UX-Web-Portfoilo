@@ -1,11 +1,12 @@
 const defaultTheme = require('tailwindcss/defaultTheme');
 const colors = require('tailwindcss/colors');
-const primary = colors.indigo;
+const primary = colors.orange;
 const secondary = colors.pink;
 const info = colors.sky;
 const warning = colors.amber;
 const success = colors.emerald;
 const error = colors.red;
+const orange = colors.orange;
 
 module.exports = {
   content: [
@@ -21,6 +22,7 @@ module.exports = {
     extend: {
       colors: {
         primary,
+        orange,
         secondary,
         info,
         warning,

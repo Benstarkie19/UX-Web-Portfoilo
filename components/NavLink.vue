@@ -18,8 +18,8 @@
 
 <template>
   <nuxt-link
-    class="hover:text-primary-500 block sm:inline-flex sm:items-center dark:text-gray-300 dark:hover:text-primary-500"
-    exact-active-class="dark:text-primary-500 text-primary-500 font-semibold"
+    class="hover:text-primary-500 block sm:inline-flex sm:items-end font-extralight dark:text-gray-300 dark:hover:text-orange-400 text-3xl"
+    exact-active-class="dark:text-orange-600 text-primary-500 font-extralight text-3xl"
     v-bind="$attrs"
   >
     <slot />
