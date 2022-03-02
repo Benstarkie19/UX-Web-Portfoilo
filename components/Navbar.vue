@@ -35,7 +35,7 @@ const toggleDark = useToggle(isDark);
       <div class="flex items-center">
         <v-btn
           rounded
-          size="xl"
+          size="lg"
           icon
           @click="toggleDark"
           text
