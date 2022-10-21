@@ -20,7 +20,7 @@
                     <div class="lg:max-w-lg">
                         <h1 class="text-8xl font-bold text-gray-800 uppercase dark:text-white lg:text-7xl py-8">Hi there ✌️</h1>
                         <h2 class="text-1xl font-semibold text-gray-800 uppercase dark:text-white lg:text-2xl">I am Ben, a Digital Designer based in Milton Keynes. I create websites, branding, and graphics.</h2>
-                        <p class="mt-2 text-gray-600 dark:text-gray-400">My strength is born from delivering minimalistic aesthetics that combine both eastern and western culture. My artwork focuses on functionalities, but always ensuring it is customized with the essence of uniqueness. </p>
+                        <p class="mt-2 text-gray-600 dark:text-gray-400">My strength is born from delivering minimalistic aesthetics. My artwork focuses on functionalities, but always ensuring it is customized with the essence of uniqueness. </p>
                         <div class="px-8 py-16">
   <div class="grid gap-8 items-start justify-center">
     <div class="relative group">
